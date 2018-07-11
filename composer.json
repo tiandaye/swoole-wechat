@@ -1,0 +1,13 @@
+{
+    "name": "swoole-wechat",
+    "require": {
+        "overtrue/wechat": "~4.0",
+        "predis/predis": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "tianwangchong",
+            "email": "q408596288@vip.qq.com"
+        }
+    ]
+}
